@@ -1,0 +1,10 @@
+---
+layout: {{ layout }}
+title: "Sponsor: {{ title }}"
+date: {{ date }}
+sponsor:
+external_url:
+---
+
+Thanks to [{{ page.sponsor }}]({{ page.external_url }}) for sponsoring
+the site this week.
